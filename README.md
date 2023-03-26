@@ -12,7 +12,4 @@ Computer science engineering student<br>Trying to master every language<br>1% be
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xBeedx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xBeedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=OxBeed)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
