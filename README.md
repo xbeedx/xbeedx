@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science engineering student<br>Trying to master every language<br>1% better each day
+Computer science engineering student<br>1% better each day
 
 
 ## 🌐 Socials:
